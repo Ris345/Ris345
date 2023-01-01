@@ -7,7 +7,7 @@ Full Stack Developer
 I am proficient in javascript and use react for framework.
 
 * 🌍  I'm based in New York
-* 🚀  I'm currently working on [flybird](http://https://github.com/Ris345/Twitter-Showcase-App)
+* 🚀  I'm currently working on [flybird](https://github.com/Ris345/Twitter-Showcase-App)
 * 🧠  I'm learning everything Javascript
 * 🤝  I'm open to collaborating on projects
 
