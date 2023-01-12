@@ -26,12 +26,6 @@ I am proficient in javascript and use react for framework.
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.codepen.io/ris345" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/Ris345" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rishav-acharya-0482051a7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Ris345"><img src="https://github-readme-stats.vercel.app/api?username=Ris345&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ris345's GitHub stats" /></a>
