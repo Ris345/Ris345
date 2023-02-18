@@ -4,10 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am proficient in javascript and use react for framework.
 
 * 🌍  I'm based in New York
-* 🚀  I'm currently working on [flybird](https://github.com/Ris345/Twitter-Showcase-App)
 * 🧠  I'm learning everything Javascript
 * 🤝  I'm open to collaborating on projects
 
