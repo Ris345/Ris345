@@ -6,8 +6,7 @@ Full Stack Developer
 
 
 * 🌍  I'm based in New York
-* 🧠  I'm learning everything Javascript
-* 🤝  I'm open to collaborating on projects
+
 
 ### Skills
 
