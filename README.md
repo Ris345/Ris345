@@ -25,4 +25,4 @@ Full Stack Developer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ris345&layout=pie)
 
-![Rishav A.'s  stats ](https://github-readme-stats.vercel.app/api/wakatime?username=WakaTime)
+[![Rishav A.'s WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WakaTime)](https://github.com/anuraghazra/github-readme-stats)
