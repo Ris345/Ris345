@@ -22,4 +22,6 @@ Full Stack Developer
 </p>
 
 
-[![Rishav A.'s  GitHub stats](https://github-readme-stats.vercel.app/api?username=ris345)](https://github.com/anuraghazra/github-readme-stats)
+[![Rishav A.'s  GitHub stats](https://github-readme-stats.vercel.app/api?username=ris345)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=onedark)
+
+
