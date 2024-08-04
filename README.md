@@ -1,10 +1,6 @@
 
 
-Full Stack Developer
---------------------
 
-
-* 🌍  I'm based in New York
 
 ![Rishav A.'s  GitHub stats](https://github-readme-stats.vercel.app/api?username=ris345&theme=dark&show_icons=true)
 
