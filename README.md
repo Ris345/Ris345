@@ -6,7 +6,7 @@
 # 💫 About Me:
 I am a Full Stack Developer who started with JavaScript and ReactJS. However, I am more drawn to backend work and am currently sharpening my skills in Python and Java.  
 
-I am building a Gmail agent—a cron job that cleans and filters emails—and I’m really excited to share it!
+I am building a Gmail agent!
 
 
 # 💻 Tech Stack:
