@@ -17,8 +17,6 @@ I am building a Gmail agent!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ris345&theme=dark&hide_border=true)<br/>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ris345&icon=0&color=0)](https://visitcount.itsvg.in)
