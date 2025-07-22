@@ -4,9 +4,8 @@
 
 
 # 💫 About Me:
-I am a Full Stack Developer who started with JavaScript and ReactJS. However, I am more drawn to backend work and am currently sharpening my skills in Python and Java.  
 
-I am building a Gmail agent!
+Backend Engineer 
 
 
 # 💻 Tech Stack:
