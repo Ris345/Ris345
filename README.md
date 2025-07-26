@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-Backend Engineer 
+Backend Engineer | Infra-First Systems Design for AI Workloads
 
 
 # 💻 Tech Stack:
