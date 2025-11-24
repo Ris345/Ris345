@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-Backend Engineer | Infra-First Systems Design for AI Workloads
+DevOps & Software Engineer. Migrating stacks to AWS/Docker. Next.js & Infrastructure enthusiast
 
 
 # 💻 Tech Stack:
