@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-DevOps & Software Engineer. Migrating stacks to AWS/Docker. Next.js & Infrastructure enthusiast
+ Software Engineer 
 
 
 # 💻 Tech Stack:
