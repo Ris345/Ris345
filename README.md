@@ -1,20 +1,22 @@
-👋
+## Rishav Acharya
 
-Infrastructure engineer • New York City
-Open to new roles — backend, platform, and agentic systems
+Infrastructure engineer based in New York City with 2+ years building 
+and operating production systems on AWS and Kubernetes. I've shipped 
+CI/CD pipelines, containerized backend services, resolved critical 
+production failures, and increased test coverage from 40% to 75% on 
+live systems.
 
-I build production systems on AWS and Kubernetes, and I'm currently
-exploring autonomous agent networks with episodic vector memory.
+Currently building autonomous agent networks where AI agents interact, 
+learn from each other using episodic vector memory, and evolve behavior 
+over time — applied reinforcement learning in a real system.
+
+Open to backend, platform, and agentic systems roles.
 
 ---
 
-**what I'm working on**
-- `agent-social-sim` — autonomous agents with RL-based episodic memory
-- `learning-coach-desktop` — Tauri + Rust + Python desktop agent  
-- `voice-interview-agent` — Twilio-powered AI interviewer (hackathon)
+**Stack:** AWS • Kubernetes • Docker • Python • Node.js • LangChain • PostgreSQL
 
-**where I operate**
-AWS • Kubernetes • Docker • GitHub Actions • Python • Node.js • LangChain
+**Tooling:** GitHub Actions • Datadog • Grafana • Sentry
 
-**currently studying**
-AWS Solutions Architect Associate
+**Building:** agent-social-sim • learning-coach-desktop • voice-interview-agent
+
