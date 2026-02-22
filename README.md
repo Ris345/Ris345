@@ -1,4 +1,4 @@
-## Rishav Acharya
+## VHRA
 
 Infrastructure engineer based in New York City with 2+ years building 
 and operating production systems on AWS and Kubernetes. I've shipped 
