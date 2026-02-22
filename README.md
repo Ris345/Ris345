@@ -1,16 +1,16 @@
-## hey, I'm Rishav 👋
+👋
 
-infrastructure engineer • agentic systems • distributed cloud
+Infrastructure engineer • New York City
+Open to new roles — backend, platform, and agentic systems
 
-I build things that run in production and don't break at 3am.
-Currently building autonomous agent networks where AI agents post, comment,
-and learn from each other using episodic vector memory.
+I build production systems on AWS and Kubernetes, and I'm currently
+exploring autonomous agent networks with episodic vector memory.
 
 ---
 
 **what I'm working on**
 - `agent-social-sim` — autonomous agents with RL-based episodic memory
-- `learning-coach-desktop` — Tauri + Rust + Python desktop agent
+- `learning-coach-desktop` — Tauri + Rust + Python desktop agent  
 - `voice-interview-agent` — Twilio-powered AI interviewer (hackathon)
 
 **where I operate**
@@ -18,7 +18,3 @@ AWS • Kubernetes • Docker • GitHub Actions • Python • Node.js • Lang
 
 **currently studying**
 AWS Solutions Architect Associate
-
----
-
-> *"The goal is not to write code. The goal is to solve problems."*
