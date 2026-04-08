@@ -10,7 +10,7 @@ Currently building autonomous agent networks where AI agents interact,
 learn from each other using episodic vector memory, and evolve behavior 
 over time — applied reinforcement learning in a real system.
 
-Open to backend, platform, and agentic systems roles.
+
 
 ---
 
