@@ -17,11 +17,3 @@ analysis — to stay hands-on with AWS.
 
 **Tooling:** GitHub Actions • Datadog • Grafana • Prometheus
 
-**Building:**
-
-| Repo | Stack | Problem it solves |
-|---|---|---|
-| [`aws-cdk-secure-s3-pipeline`](https://github.com/Ris345/aws-cdk-secure-s3-pipeline) | AWS CDK (C#), CircleCI | IaC pipeline with a manual approval gate before deploy |
-| [`Serverless-Video-Analyzer`](https://github.com/Ris345/Serverless-Video-Analyzer) | Terraform, Lambda, S3, DynamoDB, API Gateway, Next.js | Automated video analysis, zero server management |
-| [`post-automator`](https://github.com/Ris345/post-automator) | Terraform, Lambda (ECR), EventBridge Scheduler | Recurring scheduled automation with no server to manage |
-| [`gmail-spam-cleaner-agent`](https://github.com/Ris345/gmail-spam-cleaner-agent) | Docker, Flask, APScheduler, OpenAI/agno | Scheduled inbox cleanup via agent + OAuth |
