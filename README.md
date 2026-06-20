@@ -1,22 +1,22 @@
 ## VHRA
 
-Infrastructure engineer based in New York City with 2+ years building 
-and operating production systems on AWS and Kubernetes. I've shipped 
-CI/CD pipelines, containerized backend services, resolved critical 
-production failures, and increased test coverage from 40% to 75% on 
-live systems.
+Infrastructure-focused engineer based in New York City. I build and ship
+on AWS — Lambda, S3, DynamoDB, API Gateway, IAM/Cognito — using Terraform
+and AWS CDK for infrastructure-as-code, with CI/CD pipelines gating every
+deploy.
 
-Currently building autonomous agent networks where AI agents interact, 
-learn from each other using episodic vector memory, and evolve behavior 
-over time — applied reinforcement learning in a real system.
+Public repos below are personal/learning projects. Production work lives
+in private company repos.
 
-
+Currently building scheduled cloud automation and AI agent tooling —
+Gmail cleanup scheduling, LinkedIn auto-posting, serverless video
+analysis — to stay hands-on with AWS while studying for the Solutions
+Architect exam.
 
 ---
 
-**Stack:** AWS • Kubernetes • Docker • Python • Node.js • LangChain • PostgreSQL
+**Stack:** AWS • Terraform • AWS CDK • Docker • Python • Node.js • PostgreSQL
 
 **Tooling:** GitHub Actions • Datadog • Grafana • Sentry
 
-**Building:** agent-social-sim • learning-coach-desktop • voice-interview-agent
-
+**Building:** [gmail-spam-cleaner-agent](https://github.com/Ris345/gmail-spam-cleaner-agent) • [aws-cdk-secure-s3-pipeline](https://github.com/Ris345/aws-cdk-secure-s3-pipeline) • [Serverless-Video-Analyzer](https://github.com/Ris345/Serverless-Video-Analyzer) • [post-automator](https://github.com/Ris345/post-automator)
