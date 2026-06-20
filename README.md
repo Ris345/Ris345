@@ -12,11 +12,6 @@ Currently building scheduled cloud automation and AI agent tooling —
 Gmail cleanup scheduling, LinkedIn auto-posting, serverless video
 analysis — to stay hands-on with AWS.
 
-This year I've leaned into open source — merged PRs in
-[8by8-org/8by8-challenge](https://github.com/8by8-org/8by8-challenge),
-and an open PR in [aws/aws-cdk](https://github.com/aws/aws-cdk/pull/38170)
-fixing an IAM resource-policy drift issue.
-
 ---
 
 **Stack:** AWS • Terraform • AWS CDK • Docker • Python • Node.js • PostgreSQL
